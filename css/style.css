@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+}
+.images{
+	padding: 50px 0;
+}
+.container{
+	margin: 0 auto;
+	overflow: hidden;
+	width: 1320px;
+}
+.img_item{
+	float: left;
+	box-sizing: border-box;
+	width: 25%;
+	padding: 0 3px;
+}
+.img_item img{
+	width: 100%;
+}
